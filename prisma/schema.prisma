@@ -1,0 +1,6 @@
+// Day 18 (Part 1/15): Update Schedule persistence model and relations
+// Project: AI Study Planner
+// Category: DATABASE_MODEL
+
+export const MODULE_NAME = 'schema';
+export const VERSION = '1.0.0';
